@@ -1,3 +1,5 @@
+# William Flanders
+
 from SDSS_data import retrieve_sdss_spectra
 import numpy as np
 import matplotlib.pyplot as plt

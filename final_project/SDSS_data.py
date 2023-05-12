@@ -1,3 +1,5 @@
+# William Flanders
+
 from astroML.datasets import sdss_corrected_spectra
 
 def retrieve_sdss_spectra():
